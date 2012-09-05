@@ -1,0 +1,54 @@
+/* Localized versions of Info.plist keys */
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* BotonAceptarError */
+"Aceptar" = "Aceptar";
+
+/* AlarmasNavigation
+ AlarmasTabbar */
+"Alarmas" = "Alarmas";
+
+/* ApagarAlarma */
+"Apagar" = "Apagar";
+
+/* NavigationEditarAlarma */
+"Editar alarma" = "Editar alarma";
+
+/* Titulo en blanco */
+"El campo titulo es obligatorio." = "El campo titulo es obligatorio.";
+
+/* ResultadoIncorrectoMensaje */
+"El resultado introducido no es correcto." = "El resultado introducido no es correcto.";
+
+/* ErrorCadenaVacia */
+"Error" = "Error";
+
+/* CeldaEtiqueta */
+"Etiqueta" = "Etiqueta";
+
+/* ResultadoIncorrecto */
+"Incorrecto" = "Incorrecto";
+
+/* MensajeIntenteloDeNuevo */
+"Inténtalo de nuevo" = "Inténtalo de nuevo";
+
+/* TituloMensaje */
+"Mensaje Importante!" = "Mensaje Importante!";
+
+/* TituloDeLasNuevasAlarmas */
+"Nueva Alarma" = "Nueva Alarma";
+
+/* NavigationNuevaAlarma */
+"Nueva alarma" = "Nueva alarma";
+
+/* AvisoPrimeraVez */
+"Para que esta app funcione correctamente, recomendamos que antes de ir a dormir, bloquees el telefono teniendo la app abierta, de este modo cuando suene la alarma y desbloquees el telefono, podras ver la pantalla de suma.Nada mas, esperamos que disfrutes la app y nos dejes tu valoracion en iTunes!" = "Para que esta app funcione correctamente, recomendamos que antes de ir a dormir, bloquees el telefono teniendo la app abierta, de este modo cuando suene la alarma y desbloquees el telefono, podras ver la pantalla de suma.Nada mas, esperamos que disfrutes la app y nos dejes tu valoracion en iTunes!";
+
+/* RelojNavigation
+ RelojTabBar */
+"Reloj" = "Reloj";
+
+/* CeldaSonidos */
+"Sonido" = "Sonido";
