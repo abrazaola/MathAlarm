@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
-               BuildableName = "MathAlarm.app"
+               BuildableName = "CalcAlarm.app"
                BlueprintName = "CalcAlarm"
                ReferencedContainer = "container:CalcAlarm.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
-            BuildableName = "MathAlarm.app"
+            BuildableName = "CalcAlarm.app"
             BlueprintName = "CalcAlarm"
             ReferencedContainer = "container:CalcAlarm.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
-            BuildableName = "MathAlarm.app"
+            BuildableName = "CalcAlarm.app"
             BlueprintName = "CalcAlarm"
             ReferencedContainer = "container:CalcAlarm.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
-            BuildableName = "MathAlarm.app"
+            BuildableName = "CalcAlarm.app"
             BlueprintName = "CalcAlarm"
             ReferencedContainer = "container:CalcAlarm.xcodeproj">
          </BuildableReference>
