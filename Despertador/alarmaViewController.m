@@ -102,8 +102,8 @@
 -(void)generarOperacion
 {
     // Creo el primer operando
-    op1=(arc4random() % 10) + 1;
-    op2=(arc4random() % 10) + 1;
+    op1=(arc4random() % 20) + 1;
+    op2=(arc4random() % 20) + 1;
     //Se puede usar tambien antes de rand()%10;
     //srandom(time(NULL));
     

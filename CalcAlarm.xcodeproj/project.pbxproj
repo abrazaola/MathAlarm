@@ -162,13 +162,13 @@
 		5BB3619015764B68002C7BF5 /* editarTextoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = editarTextoViewController.h; sourceTree = "<group>"; };
 		5BB3619115764B68002C7BF5 /* editarTextoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = editarTextoViewController.m; sourceTree = "<group>"; };
 		5BB3619215764B68002C7BF5 /* editarTextoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = editarTextoViewController.xib; sourceTree = "<group>"; };
-		5BDC839F155E72FB00335BD2 /* MathAlarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MathAlarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BDC839F155E72FB00335BD2 /* CalcAlarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalcAlarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BDC83A3155E72FB00335BD2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5BDC83A5155E72FB00335BD2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5BDC83A7155E72FB00335BD2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5BDC83AB155E72FB00335BD2 /* MathAlarm-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MathAlarm-Info.plist"; sourceTree = "<group>"; };
+		5BDC83AB155E72FB00335BD2 /* CalcAlarm-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CalcAlarm-Info.plist"; sourceTree = "<group>"; };
 		5BDC83AF155E72FB00335BD2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5BDC83B1155E72FB00335BD2 /* MathAlarm-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MathAlarm-Prefix.pch"; sourceTree = "<group>"; };
+		5BDC83B1155E72FB00335BD2 /* CalcAlarm-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CalcAlarm-Prefix.pch"; sourceTree = "<group>"; };
 		5BDC83B2155E72FB00335BD2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5BDC83B3155E72FB00335BD2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		5BDC83BA155E745A00335BD2 /* HoraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HoraViewController.h; sourceTree = "<group>"; };
@@ -296,7 +296,7 @@
 		5BDC83A0155E72FB00335BD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5BDC839F155E72FB00335BD2 /* MathAlarm.app */,
+				5BDC839F155E72FB00335BD2 /* CalcAlarm.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -333,11 +333,11 @@
 				5B03B39515A6F54100788D28 /* digital-7 (mono).ttf */,
 				5B58D7BD15A5805A0037DE13 /* Imagenes */,
 				5BFFFE67157A238E004F2BA4 /* Sonidos */,
-				5BDC83AB155E72FB00335BD2 /* MathAlarm-Info.plist */,
+				5BDC83AB155E72FB00335BD2 /* CalcAlarm-Info.plist */,
 				5BB0BEAE15AEDE840042EB04 /* Localizable.strings */,
 				5BDC83AC155E72FB00335BD2 /* InfoPlist.strings */,
 				5BDC83AF155E72FB00335BD2 /* main.m */,
-				5BDC83B1155E72FB00335BD2 /* MathAlarm-Prefix.pch */,
+				5BDC83B1155E72FB00335BD2 /* CalcAlarm-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -363,9 +363,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5BDC839E155E72FB00335BD2 /* MathAlarm */ = {
+		5BDC839E155E72FB00335BD2 /* CalcAlarm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5BDC83B7155E72FB00335BD2 /* Build configuration list for PBXNativeTarget "MathAlarm" */;
+			buildConfigurationList = 5BDC83B7155E72FB00335BD2 /* Build configuration list for PBXNativeTarget "CalcAlarm" */;
 			buildPhases = (
 				5BDC839B155E72FB00335BD2 /* Sources */,
 				5BDC839C155E72FB00335BD2 /* Frameworks */,
@@ -376,9 +376,9 @@
 			);
 			dependencies = (
 			);
-			name = MathAlarm;
+			name = CalcAlarm;
 			productName = Despertador;
-			productReference = 5BDC839F155E72FB00335BD2 /* MathAlarm.app */;
+			productReference = 5BDC839F155E72FB00335BD2 /* CalcAlarm.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -390,7 +390,7 @@
 				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "Aitor Brazaola";
 			};
-			buildConfigurationList = 5BDC8399155E72FB00335BD2 /* Build configuration list for PBXProject "MathAlarm" */;
+			buildConfigurationList = 5BDC8399155E72FB00335BD2 /* Build configuration list for PBXProject "CalcAlarm" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -405,7 +405,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5BDC839E155E72FB00335BD2 /* MathAlarm */,
+				5BDC839E155E72FB00335BD2 /* CalcAlarm */,
 			);
 		};
 /* End PBXProject section */
@@ -609,10 +609,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Despertador/MathAlarm-Prefix.pch";
-				INFOPLIST_FILE = "Despertador/MathAlarm-Info.plist";
+				GCC_PREFIX_HEADER = "Despertador/CalcAlarm-Prefix.pch";
+				INFOPLIST_FILE = "Despertador/CalcAlarm-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
-				PRODUCT_NAME = MathAlarm;
+				PRODUCT_NAME = CalcAlarm;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -627,10 +627,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Despertador/MathAlarm-Prefix.pch";
-				INFOPLIST_FILE = "Despertador/MathAlarm-Info.plist";
+				GCC_PREFIX_HEADER = "Despertador/CalcAlarm-Prefix.pch";
+				INFOPLIST_FILE = "Despertador/CalcAlarm-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
-				PRODUCT_NAME = MathAlarm;
+				PRODUCT_NAME = CalcAlarm;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -642,7 +642,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5BDC8399155E72FB00335BD2 /* Build configuration list for PBXProject "MathAlarm" */ = {
+		5BDC8399155E72FB00335BD2 /* Build configuration list for PBXProject "CalcAlarm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5BDC83B5155E72FB00335BD2 /* Debug */,
@@ -651,7 +651,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5BDC83B7155E72FB00335BD2 /* Build configuration list for PBXNativeTarget "MathAlarm" */ = {
+		5BDC83B7155E72FB00335BD2 /* Build configuration list for PBXNativeTarget "CalcAlarm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5BDC83B8155E72FB00335BD2 /* Debug */,

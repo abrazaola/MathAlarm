@@ -15,8 +15,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
                BuildableName = "MathAlarm.app"
-               BlueprintName = "MathAlarm"
-               ReferencedContainer = "container:MathAlarm.xcodeproj">
+               BlueprintName = "CalcAlarm"
+               ReferencedContainer = "container:CalcAlarm.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,8 +33,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
             BuildableName = "MathAlarm.app"
-            BlueprintName = "MathAlarm"
-            ReferencedContainer = "container:MathAlarm.xcodeproj">
+            BlueprintName = "CalcAlarm"
+            ReferencedContainer = "container:CalcAlarm.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -46,14 +46,15 @@
       buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
+      enableOpenGLFrameCaptureMode = "0"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
             BuildableName = "MathAlarm.app"
-            BlueprintName = "MathAlarm"
-            ReferencedContainer = "container:MathAlarm.xcodeproj">
+            BlueprintName = "CalcAlarm"
+            ReferencedContainer = "container:CalcAlarm.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5BDC839E155E72FB00335BD2"
             BuildableName = "MathAlarm.app"
-            BlueprintName = "MathAlarm"
-            ReferencedContainer = "container:MathAlarm.xcodeproj">
+            BlueprintName = "CalcAlarm"
+            ReferencedContainer = "container:CalcAlarm.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
