@@ -64,6 +64,7 @@
 		5BB0BEB015AEDE840042EB04 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5BB0BEAE15AEDE840042EB04 /* Localizable.strings */; };
 		5BB3619315764B69002C7BF5 /* editarTextoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BB3619115764B68002C7BF5 /* editarTextoViewController.m */; };
 		5BB3619415764B69002C7BF5 /* editarTextoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BB3619215764B68002C7BF5 /* editarTextoViewController.xib */; };
+		5BDA564615FDC6A00031FE8C /* alarmaViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BDA564515FDC6A00031FE8C /* alarmaViewController~iPad.xib */; };
 		5BDC83A4155E72FB00335BD2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BDC83A3155E72FB00335BD2 /* UIKit.framework */; };
 		5BDC83A6155E72FB00335BD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BDC83A5155E72FB00335BD2 /* Foundation.framework */; };
 		5BDC83A8155E72FB00335BD2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BDC83A7155E72FB00335BD2 /* CoreGraphics.framework */; };
@@ -162,6 +163,7 @@
 		5BB3619015764B68002C7BF5 /* editarTextoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = editarTextoViewController.h; sourceTree = "<group>"; };
 		5BB3619115764B68002C7BF5 /* editarTextoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = editarTextoViewController.m; sourceTree = "<group>"; };
 		5BB3619215764B68002C7BF5 /* editarTextoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = editarTextoViewController.xib; sourceTree = "<group>"; };
+		5BDA564515FDC6A00031FE8C /* alarmaViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "alarmaViewController~iPad.xib"; sourceTree = "<group>"; };
 		5BDC839F155E72FB00335BD2 /* CalcAlarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalcAlarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BDC83A3155E72FB00335BD2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5BDC83A5155E72FB00335BD2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -263,6 +265,7 @@
 				5B602B90156D15B700D34114 /* alarmaViewController.h */,
 				5B602B91156D15B700D34114 /* alarmaViewController.m */,
 				5BF474D615AED23300454217 /* alarmaViewController.xib */,
+				5BDA564515FDC6A00031FE8C /* alarmaViewController~iPad.xib */,
 				5BB3619015764B68002C7BF5 /* editarTextoViewController.h */,
 				5BB3619115764B68002C7BF5 /* editarTextoViewController.m */,
 				5BB3619215764B68002C7BF5 /* editarTextoViewController.xib */,
@@ -472,6 +475,7 @@
 				5B8F875315B8284F00467AC0 /* Piano2.caf in Resources */,
 				5B8F875415B8284F00467AC0 /* Piano3.caf in Resources */,
 				5B8F875515B8284F00467AC0 /* Police.caf in Resources */,
+				5BDA564615FDC6A00031FE8C /* alarmaViewController~iPad.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
