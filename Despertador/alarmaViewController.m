@@ -140,4 +140,12 @@
     }
 }
 
+#pragma mark - TextField Delegate
+- (BOOL)textFieldShouldReturn:(UITextField *)textField
+{
+    [self apagar:nil];
+    
+    return YES;
+}
+
 @end
